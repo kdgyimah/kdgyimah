@@ -5,7 +5,7 @@
 </a>
 
 
-### I'm a software engineer who is passionate about making products and learning new tech. I'm currently working at <a href="https://www.qodehub.com/" target="_blank">@QodeHub</a>
+### I'm a <a href="http://kingsleydavid.tech/" target="_blank">software engineer</a> who is passionate about making products and learning new tech. I'm currently working at <a href="https://www.qodehub.com/" target="_blank">@QodeHub</a>
 
 
 <table width="100%">
