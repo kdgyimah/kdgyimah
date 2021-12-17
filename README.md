@@ -5,7 +5,11 @@
 </a>
 
 
-### I'm a <a href="http://kingsleydavid.tech/" target="_blank">software engineer</a> who is passionate about making products and learning new tech. I'm currently working at <a href="https://www.qodehub.com/" target="_blank">@QodeHub</a>
+### A <a href="http://kingsleydavid.tech/" target="_blank">software engineer</a> passionate about making products and learning new tech.
+
+### I'm Poised to transition to **Senior Frontend Engineer** along the line. 
+
+### I find most of my enjoyable moments when spent with others and I ONLY wish this FIELD offered more time😪!
 
 
 <table width="100%">
