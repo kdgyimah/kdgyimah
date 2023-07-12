@@ -7,7 +7,7 @@
 
 ### A <a href="http://kingsleydavid.tech/" target="_blank">software engineer</a> passionate about making products and learning new tech.
 
-### I'm Poised to transition to **Senior Frontend Engineer** along the line. 
+### I'm Poised to transition to **Senior Frontend Engineer** AND **Engineering Manager** along the line. 
 
 ### I find most of my enjoyable moments when spent with others and I ONLY wish this FIELD offered more time😪!
 
